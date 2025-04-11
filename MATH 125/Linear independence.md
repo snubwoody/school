@@ -17,8 +17,8 @@ To determine whether the vectors
 $$
 \textbf{u}_1 = \begin{bmatrix} 1 \\\ 2 \\\ 3 \\\ 4 \\\ 5 \end{bmatrix}
 \textbf{u}_2 = \begin{bmatrix} 0 \\\ 1 \\\ 2 \\\ 3 \\\ 4 \end{bmatrix}
-\textbf{u}_3 = \begin{bmatrix} 1 \\ 2 \\ 3 \\\ 2 \\\ 1 \end{bmatrix}
-\textbf{u}_4 = \begin{bmatrix} 3 \\ -2 \\ 1 \\\ -2 \\\ 3 \end{bmatrix}
+\textbf{u}_3 = \begin{bmatrix} 1 \\\ 2 \\\ 3 \\\ 2 \\\ 1 \end{bmatrix}
+\textbf{u}_4 = \begin{bmatrix} 3 \\\ -2 \\\ 1 \\\ -2 \\\ 3 \end{bmatrix}
 $$
 
 are lineary independent, we form a matrix with the vectors as columns
