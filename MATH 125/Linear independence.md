@@ -33,3 +33,17 @@ A=
 5 & 4 & 1 & 3 \\\
 \end{bmatrix}
 $$
+
+$A$ has a row-echelon form given by
+
+$$
+\begin{bmatrix}
+1 & 0 & 1 & 3 \\\
+0 & 1 & 0 & -8 \\\
+0 & 0 & -2 & 10 \\\
+0 & 0 & 0 & 8 \\\
+0 & 0 & 0 & 0 \\\
+\end{bmatrix}
+$$
+
+which has a leading entry in every column, so the vectors $\textbf{u}_1,\textbf{u}_2,\textbf{u}_3$ are linearly independent.
