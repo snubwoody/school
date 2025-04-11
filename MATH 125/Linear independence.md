@@ -15,10 +15,21 @@ In general, to decide if vectors $\textbf{u}_1,...\textbf{u}_k \in \mathbb{R}^n$
 To determine whether the vectors
 
 $$
-\textbf{u}_1 = \begin{bmatrix} 1 \\\ 2 \\\ 3 \\\ 4 \\\ 5 \end{bmatrix}
-\textbf{u}_2 = \begin{bmatrix} 0 \\\ 1 \\\ 2 \\\ 3 \\\ 4 \end{bmatrix}
-\textbf{u}_3 = \begin{bmatrix} 1 \\\ 2 \\\ 3 \\\ 2 \\\ 1 \end{bmatrix}
+\textbf{u}_1 = \begin{bmatrix} 1 \\\ 2 \\\ 3 \\\ 4 \\\ 5 \end{bmatrix},
+\textbf{u}_2 = \begin{bmatrix} 0 \\\ 1 \\\ 2 \\\ 3 \\\ 4 \end{bmatrix},
+\textbf{u}_3 = \begin{bmatrix} 1 \\\ 2 \\\ 3 \\\ 2 \\\ 1 \end{bmatrix},
 \textbf{u}_4 = \begin{bmatrix} 3 \\\ -2 \\\ 1 \\\ -2 \\\ 3 \end{bmatrix}
 $$
 
 are lineary independent, we form a matrix with the vectors as columns
+
+$$
+A=
+\begin{bmatrix}
+1 & 0 & 1 & 3 \\\
+2 & 1 & 2 & -2 \\\
+3 & 2 & 3 & 1 \\\
+4 & 3 & 2 & -2 \\\
+5 & 4 & 1 & 3 \\\
+\end{bmatrix}
+$$
